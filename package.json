@@ -1,0 +1,24 @@
+{
+  "name": "memory-format",
+  "version": "0.1.0",
+  "description": "Memory format for humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ordermentum/memory-format.git"
+  },
+  "keywords": [
+    "memory",
+    "format",
+    "human"
+  ],
+  "author": "Various",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ordermentum/memory-format/issues"
+  },
+  "homepage": "https://github.com/ordermentum/memory-format#readme"
+}
