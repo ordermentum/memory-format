@@ -3,7 +3,7 @@ const unit = ['', 'K', 'M', 'G', 'T', 'P'];
 function bytesToSize(input, precision = 3) {
   const index = Math.floor(Math.log(input) / Math.log(1024));
 
-  if (unit >= unit.length) {
+  if (index >= unit.length) {
     return input + ' B';
   }
 
